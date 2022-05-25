@@ -5,3 +5,4 @@ ls -l - lists contents in the directory with long format
 ls -la -List all contents in the directory even hiden one's
 ls -na - to list with user and group IDs
 mkdir - to create new directory
+mv - To move files and directories
