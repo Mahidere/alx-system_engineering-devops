@@ -11,3 +11,4 @@ cd - - working directory to the previous one
 ls -la .. - list ivluding the parent
 file - to know file type
 ln - for symbolic link
+cp- to copy files
