@@ -7,4 +7,4 @@ ls -na - to list with user and group IDs
 mkdir - to create new directory
 mv - To move files and directories
 rm - to remove files and directories
-cd .. - working directory to the previous one
+cd - - working directory to the previous one
