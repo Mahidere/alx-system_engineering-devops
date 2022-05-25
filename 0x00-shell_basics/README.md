@@ -10,3 +10,4 @@ rm - to remove files and directories
 cd - - working directory to the previous one
 ls -la .. - list ivluding the parent
 file - to know file type
+ln - for symbolic link
