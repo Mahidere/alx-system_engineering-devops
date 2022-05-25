@@ -8,3 +8,4 @@ mkdir - to create new directory
 mv - To move files and directories
 rm - to remove files and directories
 cd - - working directory to the previous one
+ls -la .. - list ivluding the parent
