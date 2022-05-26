@@ -1,9 +1,9 @@
-Discription about shell permision__
-su - for super__
-chmod - for excusion__
-whoami - to know the username__
-groups - to know the group__
-chown - change file ownership__
-touch - to creat empity file__
+Discription about shell permision <br />
+su - for super <br />
+chmod - for excusion <br />
+whoami - to know the username <br />
+groups - to know the group <br />
+chown - change file ownership <br />
+touch - to creat empity file <br />
 
 
