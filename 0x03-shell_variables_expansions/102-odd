@@ -1,2 +1,2 @@
 #!/bin/bash
-cat awk '!(NR % 2)'
+cat -n | grep -v ^[02468]
